@@ -290,14 +290,6 @@ Training the final model on the full dataset significantly improved validation p
 
 The final Random Forest model achieved the strongest validation performance across all tracked metrics.
 
-### Kaggle Result
-
-The model achieved the following public leaderboard score:
-
-| Metric | Score |
-| --- | ---: |
-| Kaggle Public Leaderboard RMSLE | 0.24012 |
-
 ---
 
 ## Test Predictions

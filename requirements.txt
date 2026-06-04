@@ -1,0 +1,7 @@
+# Core data science libraries
+
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
